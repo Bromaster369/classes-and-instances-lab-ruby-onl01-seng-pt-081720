@@ -1,10 +1,9 @@
 class Dog 
   
-  
+  fido = Dog.new 
+  snoopy = Dog.new 
+  lassie = Dog.new 
   
   
 end 
 
- paloma = Dog.new 
-  bambe = Dog.new 
-  vinci = Dog.new 
